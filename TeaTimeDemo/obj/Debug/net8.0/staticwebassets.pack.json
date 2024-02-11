@@ -1,0 +1,345 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\程式\\C_sharp\\購物車書\\TeaTimeDemo\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\TeaTimeDemo.bundle.scp.css",
+      "PackagePath": "staticwebassets\\TeaTimeDemo.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\程式\\C_sharp\\購物車書\\TeaTimeDemo\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\程式\\C_sharp\\購物車書\\TeaTimeDemo\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\程式\\C_sharp\\購物車書\\TeaTimeDemo\\wwwroot\\images\\product\\08fdb130-ec06-4e94-b232-3ed082cfd9c5.png",
+      "PackagePath": "staticwebassets\\images\\product\\08fdb130-ec06-4e94-b232-3ed082cfd9c5.png"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\程式\\C_sharp\\購物車書\\TeaTimeDemo\\wwwroot\\images\\product\\32eadd45-5957-4f75-bf4b-8668aa6a9a2d.png",
+      "PackagePath": "staticwebassets\\images\\product\\32eadd45-5957-4f75-bf4b-8668aa6a9a2d.png"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\程式\\C_sharp\\購物車書\\TeaTimeDemo\\wwwroot\\images\\product\\3f1a6771-29fd-4bd8-b238-65af7ea66bfa.png",
+      "PackagePath": "staticwebassets\\images\\product\\3f1a6771-29fd-4bd8-b238-65af7ea66bfa.png"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\程式\\C_sharp\\購物車書\\TeaTimeDemo\\wwwroot\\images\\product\\524df906-d8dd-4f94-929f-ea68d01c8c3b.png",
+      "PackagePath": "staticwebassets\\images\\product\\524df906-d8dd-4f94-929f-ea68d01c8c3b.png"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\程式\\C_sharp\\購物車書\\TeaTimeDemo\\wwwroot\\images\\product\\59ecb717-1385-4f9c-8a7a-808abcca585c.png",
+      "PackagePath": "staticwebassets\\images\\product\\59ecb717-1385-4f9c-8a7a-808abcca585c.png"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\程式\\C_sharp\\購物車書\\TeaTimeDemo\\wwwroot\\images\\product\\71d23a52-135f-40aa-968a-39b5965108fb.png",
+      "PackagePath": "staticwebassets\\images\\product\\71d23a52-135f-40aa-968a-39b5965108fb.png"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\程式\\C_sharp\\購物車書\\TeaTimeDemo\\wwwroot\\images\\product\\72d3ce1a-75b8-460e-8516-26b827fbb2dc.png",
+      "PackagePath": "staticwebassets\\images\\product\\72d3ce1a-75b8-460e-8516-26b827fbb2dc.png"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\程式\\C_sharp\\購物車書\\TeaTimeDemo\\wwwroot\\images\\product\\7823404e-e623-4316-b6c2-02052f748f48.png",
+      "PackagePath": "staticwebassets\\images\\product\\7823404e-e623-4316-b6c2-02052f748f48.png"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\程式\\C_sharp\\購物車書\\TeaTimeDemo\\wwwroot\\images\\product\\78ea717a-cbef-4f5a-9f30-c309bc338e0a.png",
+      "PackagePath": "staticwebassets\\images\\product\\78ea717a-cbef-4f5a-9f30-c309bc338e0a.png"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\程式\\C_sharp\\購物車書\\TeaTimeDemo\\wwwroot\\images\\product\\8b355f66-afd2-4c1a-b1c8-7c1da06e7611.png",
+      "PackagePath": "staticwebassets\\images\\product\\8b355f66-afd2-4c1a-b1c8-7c1da06e7611.png"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\程式\\C_sharp\\購物車書\\TeaTimeDemo\\wwwroot\\images\\product\\8be0b076-d0a8-40f7-986c-dcbf2470ca74.png",
+      "PackagePath": "staticwebassets\\images\\product\\8be0b076-d0a8-40f7-986c-dcbf2470ca74.png"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\程式\\C_sharp\\購物車書\\TeaTimeDemo\\wwwroot\\images\\product\\92fd6136-a461-41b6-adda-cb7a117ab536.png",
+      "PackagePath": "staticwebassets\\images\\product\\92fd6136-a461-41b6-adda-cb7a117ab536.png"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\程式\\C_sharp\\購物車書\\TeaTimeDemo\\wwwroot\\images\\product\\9bb45315-614e-4968-8d5c-ae6f6dcb5e40.png",
+      "PackagePath": "staticwebassets\\images\\product\\9bb45315-614e-4968-8d5c-ae6f6dcb5e40.png"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\程式\\C_sharp\\購物車書\\TeaTimeDemo\\wwwroot\\images\\product\\9bb9c7a4-e029-4ab4-8cdc-004820fb4473.png",
+      "PackagePath": "staticwebassets\\images\\product\\9bb9c7a4-e029-4ab4-8cdc-004820fb4473.png"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\程式\\C_sharp\\購物車書\\TeaTimeDemo\\wwwroot\\images\\product\\9cbd3bde-84fb-43b6-bc6a-687510658beb.png",
+      "PackagePath": "staticwebassets\\images\\product\\9cbd3bde-84fb-43b6-bc6a-687510658beb.png"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\程式\\C_sharp\\購物車書\\TeaTimeDemo\\wwwroot\\images\\product\\efac3339-de59-4e82-b8ce-842a7c4a572e.png",
+      "PackagePath": "staticwebassets\\images\\product\\efac3339-de59-4e82-b8ce-842a7c4a572e.png"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\程式\\C_sharp\\購物車書\\TeaTimeDemo\\wwwroot\\images\\product\\fbbecdee-2a9b-414f-9a1b-2f6291e78df0.png",
+      "PackagePath": "staticwebassets\\images\\product\\fbbecdee-2a9b-414f-9a1b-2f6291e78df0.png"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\程式\\C_sharp\\購物車書\\TeaTimeDemo\\wwwroot\\js\\order.js",
+      "PackagePath": "staticwebassets\\js\\order.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\程式\\C_sharp\\購物車書\\TeaTimeDemo\\wwwroot\\js\\product.js",
+      "PackagePath": "staticwebassets\\js\\product.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\程式\\C_sharp\\購物車書\\TeaTimeDemo\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\程式\\C_sharp\\購物車書\\TeaTimeDemo\\wwwroot\\js\\store.js",
+      "PackagePath": "staticwebassets\\js\\store.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\程式\\C_sharp\\購物車書\\TeaTimeDemo\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\程式\\C_sharp\\購物車書\\TeaTimeDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\程式\\C_sharp\\購物車書\\TeaTimeDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\程式\\C_sharp\\購物車書\\TeaTimeDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\程式\\C_sharp\\購物車書\\TeaTimeDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\程式\\C_sharp\\購物車書\\TeaTimeDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\程式\\C_sharp\\購物車書\\TeaTimeDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\程式\\C_sharp\\購物車書\\TeaTimeDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\程式\\C_sharp\\購物車書\\TeaTimeDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\程式\\C_sharp\\購物車書\\TeaTimeDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\程式\\C_sharp\\購物車書\\TeaTimeDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\程式\\C_sharp\\購物車書\\TeaTimeDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\程式\\C_sharp\\購物車書\\TeaTimeDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\程式\\C_sharp\\購物車書\\TeaTimeDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\程式\\C_sharp\\購物車書\\TeaTimeDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\程式\\C_sharp\\購物車書\\TeaTimeDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\程式\\C_sharp\\購物車書\\TeaTimeDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\程式\\C_sharp\\購物車書\\TeaTimeDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\程式\\C_sharp\\購物車書\\TeaTimeDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\程式\\C_sharp\\購物車書\\TeaTimeDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\程式\\C_sharp\\購物車書\\TeaTimeDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\程式\\C_sharp\\購物車書\\TeaTimeDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\程式\\C_sharp\\購物車書\\TeaTimeDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\程式\\C_sharp\\購物車書\\TeaTimeDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\程式\\C_sharp\\購物車書\\TeaTimeDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\程式\\C_sharp\\購物車書\\TeaTimeDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\程式\\C_sharp\\購物車書\\TeaTimeDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\程式\\C_sharp\\購物車書\\TeaTimeDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\程式\\C_sharp\\購物車書\\TeaTimeDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\程式\\C_sharp\\購物車書\\TeaTimeDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\程式\\C_sharp\\購物車書\\TeaTimeDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\程式\\C_sharp\\購物車書\\TeaTimeDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\程式\\C_sharp\\購物車書\\TeaTimeDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\程式\\C_sharp\\購物車書\\TeaTimeDemo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\程式\\C_sharp\\購物車書\\TeaTimeDemo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\程式\\C_sharp\\購物車書\\TeaTimeDemo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\程式\\C_sharp\\購物車書\\TeaTimeDemo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\程式\\C_sharp\\購物車書\\TeaTimeDemo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\程式\\C_sharp\\購物車書\\TeaTimeDemo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\程式\\C_sharp\\購物車書\\TeaTimeDemo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\程式\\C_sharp\\購物車書\\TeaTimeDemo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\程式\\C_sharp\\購物車書\\TeaTimeDemo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\程式\\C_sharp\\購物車書\\TeaTimeDemo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\程式\\C_sharp\\購物車書\\TeaTimeDemo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\程式\\C_sharp\\購物車書\\TeaTimeDemo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\程式\\C_sharp\\購物車書\\TeaTimeDemo\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\程式\\C_sharp\\購物車書\\TeaTimeDemo\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\程式\\C_sharp\\購物車書\\TeaTimeDemo\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\程式\\C_sharp\\購物車書\\TeaTimeDemo\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\程式\\C_sharp\\購物車書\\TeaTimeDemo\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\程式\\C_sharp\\購物車書\\TeaTimeDemo\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\程式\\C_sharp\\購物車書\\TeaTimeDemo\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\程式\\C_sharp\\購物車書\\TeaTimeDemo\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\程式\\C_sharp\\購物車書\\TeaTimeDemo\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\程式\\C_sharp\\購物車書\\TeaTimeDemo\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\程式\\C_sharp\\購物車書\\TeaTimeDemo\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\程式\\C_sharp\\購物車書\\TeaTimeDemo\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.TeaTimeDemo.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.TeaTimeDemo.props",
+      "PackagePath": "build\\TeaTimeDemo.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.TeaTimeDemo.props",
+      "PackagePath": "buildMultiTargeting\\TeaTimeDemo.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.TeaTimeDemo.props",
+      "PackagePath": "buildTransitive\\TeaTimeDemo.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
